@@ -6,7 +6,7 @@ AI/ML Engineer, Researcher, and Software Developer working on **AI for Science**
 
 Machine Learning · Generative Modelling · Computer Vision · Representation Learning · AI for Science · AI Safety
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
