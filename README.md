@@ -4,7 +4,7 @@ AI/ML Engineer, Researcher, and Software Developer working on **AI for Science**
 
 ## 🔭 Interests
 
-Machine Learning · Generative Modelling · Computer Vision · Representation Learning · AI for Science · AI Safety
+Machine Learning · Generative Modelling · Computer Vision  · AI for Science · AI Safety · Software Engineering
 
 ## 🛠️ Skills
 
